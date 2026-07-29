@@ -6,4 +6,4 @@ ahora probaremos como funciona
 pull prueba
 
 
-Edito para demostrar que no puedo hacer push si n hacer pull
+Edito para demostrar que no puedo hacer push si n hacer pull.
