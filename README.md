@@ -4,3 +4,6 @@ Esto lo he añadido para mostrar como hacer un commit desde github
 
 ahora probaremos como funciona
 pull prueba
+
+
+Edito para demostrar que no puedo hacer push si n hacer pull
